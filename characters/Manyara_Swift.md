@@ -18,7 +18,7 @@ Attributes
 ----------
 
 | Physical | Mental | Social |
-------------------------------
+|----------|--------|--------|
 | STR 2 | INT 3 | PRE 3 |
 | DEX 4 | WIT 4 | MAN 1 |
 | STA 1 | RES 2 | COM 1 |
@@ -30,7 +30,7 @@ Skills
 -----------
 
 | Physical | Mental | Social |
----------------------------------------
+|----------|--------|--------|
 | Athletics 4 | Academics 0 | Animal Ken 2 |
 | Brawl 2 | Computer 2 | Empathy 0 |
 | Drive 0 | Crafts 1 | Expression 1 |
@@ -53,14 +53,13 @@ Rituals ?
 Forms
 ------
 
-| Human | Ritual | War | Chase | Run
-=====================================
+| Human | Ritual | War | Chase | Run |
+|-------|--------|-----|-------|----|
 | [same] | DEX +1 | STR +1 | STR +2 | DEX +3 |
 |        | MAN -1 | DEX +4 | DEX +3 | STA +1 |
 |        |        | STA +1 | MAN -3 |        |
 |        |        | MAN =0 |        |        |
 | SP: 5  | SP: 7  | SP: 10 | SP: 13 | SP: 15 |         
-=====================================
 
 
 Special Powers
