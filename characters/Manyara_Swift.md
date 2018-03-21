@@ -17,11 +17,11 @@ Nature: Innovator | Virtue: Confidence | Vice: Pride
 Attributes
 ----------
 
-Physical | Mental | Social
+| Physical | Mental | Social |
 ==========================
-STR 2 | INT 3 | PRE 3
-DEX 4 | WIT 4 | MAN 1
-STA 1 | RES 2 | COM 1
+| STR 2 | INT 3 | PRE 3 |
+| DEX 4 | WIT 4 | MAN 1 |
+| STA 1 | RES 2 | COM 1 |
 ==========================
 
 
@@ -30,16 +30,16 @@ STA 1 | RES 2 | COM 1
 Skills
 -----------
 
-Physical | Mental | Social
+| Physical | Mental | Social |
 ==========================
-Athletics 4 | Academics 0 | Animal Ken 2
-Brawl 2 | Computer 2 | Empathy 0
-Drive 0 | Crafts 1 | Expression 1
-Larceny 0 | Investigation 0 | Intimidation 0 
-Shooting 0 | Occult 2 | Persuation 0 
-Stealth 1 | Medicine 0 | Socialize 0 
-Survival 3 | Politics 0 | Streetwise 1
-Weaponry 1 | Science 2 | Subterfuge 0 
+| Athletics 4 | Academics 0 | Animal Ken 2 |
+| Brawl 2 | Computer 2 | Empathy 0 |
+| Drive 0 | Crafts 1 | Expression 1 |
+| Larceny 0 | Investigation 0 | Intimidation 0 |
+| Shooting 0 | Occult 2 | Persuation 0 |
+| Stealth 1 | Medicine 0 | Socialize 0 |
+| Survival 3 | Politics 0 | Streetwise 1 |
+| Weaponry 1 | Science 2 | Subterfuge 0 | 
 =========================
 
 
@@ -55,13 +55,13 @@ Rituals ?
 Forms
 ------
 
-Human | Ritual | War | Chase | Run
+| Human | Ritual | War | Chase | Run
 =====================================
-[same] | DEX +1 | STR +1 | STR +2 | DEX +3
-       | MAN -1 | DEX +4 | DEX +3 | STA +1
-       |        | STA +1 | MAN -3 |       
-       |        | MAN =0 |        |      
-SP: 5  | SP: 7  | SP: 10 | SP: 13 | SP: 15         
+| [same] | DEX +1 | STR +1 | STR +2 | DEX +3 |
+|        | MAN -1 | DEX +4 | DEX +3 | STA +1 |
+|        |        | STA +1 | MAN -3 |        |
+|        |        | MAN =0 |        |        |
+| SP: 5  | SP: 7  | SP: 10 | SP: 13 | SP: 15 |         
 =====================================
 
 
