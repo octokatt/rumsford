@@ -3,15 +3,21 @@
 _"Play stupid games, win stupid prizes"_
 _"Industry isn't a newspaper column, it's a Virtue -- one of the few that always matters"_
 
+
+* * * * * 
+
 ### Aspects
 
+##### Nature: Pedagogue
+
+##### Virtue: Craftsmanship/Industry
+##### Vice: Paranoia
+
+##### High Concept: Structural Improvements Thaumaturge
+##### Trouble: Competent Professional
+##### _Bonus Trouble:_ Family Means Well
+
 Integrity: 6
-Nature: Pedagogue
-Virtue: Craftsmanship, Industry
-Vice: Paranoia
-High Concept: Structural Improvements Thaumaturge
-Trouble: Competent Professional
-_Bonus Trouble:_ Family Means Well
 
 
 ### Name Meanings
@@ -25,37 +31,37 @@ _Bonus Trouble:_ Family Means Well
 
 ## Attributes
 
-|-----------|-----------|-----------|
 | MENTAL	| PHYSICAL	| SOCIAL	|
 |-----------|-----------|-----------|
 | INT 5		| STR 1		| PRE 2     |
 | WIT 3     | DEX 1     | MAN 3     |
 | RES 5     | STA 1     | COM 4     |
-|-----------|-----------|-----------|
+
 
 
 ## Skills
 
-|---------------|---------------|---------------|
 | MENTAL        | PHYSICAL      | SOCIAL        |
 |---------------|---------------|---------------|
-| Academics   2 | Athletics     | Animal Ken  1 |
-| Computer    3 | Brawl         | Empathy       |
-| Crafts*     3 | Drive       1 | Expression  3 |
-| Investigate   | Larceny     3 | Intimidate  1 |
+| Academics   1 | Athletics     | Animal Ken    |
+| Computer    2 | Brawl         | Empathy       |
+| Crafts*     3 | Drive       2 | Expression  3 |
+| Investigate   | Larceny     2 | Intimidate  1 |
 | Occult*     4 | Firearms      | Persuation* 2 |
-| Medicine    1 | Stealth       | Socialize     |
+| Medicine    1 | Stealth       | Socialize   2 |
 | Politics      | Survival      | Streetwise    |
-| Science*    4 | Weaponry      | Subterfuge  3 |
-|---------------|---------------|---------------|
+| Science*    4 | Weaponry      | Subterfuge  2 |
 
 
 #### Specialties
 
 * Persuation (Sympathy; see *Disabled*)
-* Science (Physics)(Geomancy, Interdisciplinary Specialty) [9-again]
+* Science (Physics)(Geometry)(Geomancy, Interdisciplinary Specialty) [9-again]
 * Crafts (Wards 2, Interdisciplinary Specialty) [9-again]
 * Occult [9-again]
+* Intimidate (Spirits; see Flaw: Warded)
+* Expression (poetry/mudra recitation)
+* Drive (Van)
 
 
 * * * * * 
@@ -63,47 +69,79 @@ _Bonus Trouble:_ Family Means Well
 
 ## Merits and Advantages
 
-#### Knowing Stuff
+### Knowlege-based
 
 (2) Danger Sense: You can a +2 on Wits+Composure rolls to detect an ambush; this is due to a nearly paranoid level of wards use [Paranoia] <WoD Core, pg. 108>
 (2) Eidetic Memory: You have a near photographic memory; you do not need to roll to remember things, and during stressful conditions you have a +2 modifier on any Intelligence+Composure to remember something, or any other Skill-based roll to remember something.  <WoD Core, pg. 108>
-(2) Languages: Dutch, Bengali
-(2) Multilingual: Sanskrit, Latin, Old Norse, Hindi. <Reliquary, pg. 85>
+(3) Languages: Dutch, Bengali, Sanskrit  <WoD Core>
+(2) Multilingual: Latin, Old Norse, Hindi, French  <Reliquary, pg. 85>
 
 
-#### Doing Stuff
+### Warding-based
 
 (3) Crafter's Sense: You have an intuitive knack for your specialty.  When creating something within your specialty, you may roll Wits+Crafts to know how well or how poorly you're doing, in addition to any benefits gained from the Common Sense merit.  <The Free Council, pg. 131>
+
 (1) Good Time Management: Years of working with demanding overmasters have served you well.  Each roll in an extended _mundane_ action has the time requirement reduced by 25%.  <Asylum, pg. 50>
+
 (1) Make Do (Crafts): Reduce all penalties from inappropriate tools by the rating of this merit. [Paranoia] <The Free Council, pg. 132>
+
 (3) Scientist's Sense (Geomancy): You have an intuitive sense of your scientific discipline, borne of experience.  When creating something within your specialty, you may roll Wits+Crafts to know how well or how poorly you're doing, in addition to any benefits gained from the Common Sense merit.  <The Free Council, pg. 133>
+
+(1) Patient: When taking extended actions, you may roll two times more than your base dice pool
+
 (2) Professional Training, Ward-Master:
 * Networking: Contacts (2)
 * Continuing Education: Occult, Crafts, Science
 
+(2) Indomitable: Whenever someone attempts to overpower your will supernaturally, gain a +2 to the defense or roll
 
 
-## Flaws, Associations
+### Socal-based
 
-(*) Disabled, Congenital Muscular Dystrophy: You are physically disabled; while you can hobble for short distances while wearing braces (1m/turn), your primary mode of transportation is by wheelchair.  For all the jokes about better parking and VIP treatment, this is a major hindrance to your life and may cause people to take you less seriously.  However, when attempting to use your disabled status to gain a social advantage, treat this Flaw as Striking Looks (4).
+(2) Cohesive Unit: Your character is a natural teamplayer who brings out the best from those he works with. At one dot, team members add +2 dice to teamwork actions dedicated to helping the team <CoD, pg. 72> 
+
+
+### Professional Ties
+
 (*) Status, Community College: Adjunct Professor
+
 (*) Emiama/"Emme", the Ancient Witch [from Professional Training]
+
 (*) Momma R, the Helpful Witch [from Professional Training]
+
 (*) Academic (Wizard) Contacts [from Professional Training]
-(*) "Helpful" Family: One parent doesn't care if she awakens, as long as she gets a good job, a husband, and grandkids.  The other doesn't care about that, as long as she Awakens.
-    - British Raj Architects
+
 (*) Dartmouth Student (commuter)
+
 (*) Geoffrey Ash: Family Rivalry, must prove that he's the sad, sad Crowley-wanna be that he is, bugger him
+
 (*) Melissa Andrus: Miserable architect that's a local family connection, who is now almost-always miserable due to a bad project.
-(*) Silver Ladder: You are associated with the Silver Ladder.  Geoffrey is a _terrible_ Silver Ladder.
+
+
+### Family Ties
 
 (*) Family Connections: You can find the right person for the job.  Treat all services as costing one Resource dot less.  This may require you to "occasionally" perform services for less than your usual fee in return.
 
+(*) "Helpful" Family: One parent doesn't care if she awakens, as long as she gets a good job, a husband, and grandkids.  The other doesn't care about that, as long as she Awakens.
 
-## Backgrounds
+(*) Silver Ladder: You are associated with the Silver Ladder.  Geoffrey is a _terrible_ Silver Ladder.
+
+(*) Shadow Contact, Abaddon: You can gain information about something's banes, but at a strange and often high cost.  These communications are always in Sanskrit.
+
+
+### Backgrounds
 
 (4) Local Union #348, Dwarven Construction: You are on good terms with the local dwarven union, and contribute regularly to their projects.  As a result, you gain a number of useful benefits.
+
 (2) Resources: You have material resources, worth $1,000 per month of disposable income and $5,000 worth of assets.
+
+
+### Flaws
+
+(*) Disabled, Congenital Muscular Dystrophy: You are physically disabled; while you can hobble for short distances while wearing braces (1m/turn), your primary mode of transportation is by wheelchair.  For all the jokes about better parking and VIP treatment, this is a major hindrance to your life and may cause people to take you less seriously.  However, when attempting to use your disabled status to gain a social advantage, treat this Flaw as Striking Looks (4).
+
+(*) Well-warded To Spirits: Gain a +1 to Intimidate against spirits, and to attempts to abjure or exorcise them from places or human hosts.  Take a -2 to any attempts to interact positively with spirits.  This gets significantly worse when using Geomancy, Wards, or Exorcism.
+
 
 
 * * * * * 
@@ -129,8 +167,13 @@ _Bonus Trouble:_ Family Means Well
 (5) Vision: Your character has Vision, and is capable of visualizing plans with great clarity and using this visualization to guide her work.  This has multiple effects:
   * When spending Willpower, you may use your Vision to assist yourself on any extended action, and roll Vision + an appropriate Skill, and each success is added as bonus dice to the next roll on the extended action.
   * You may substitute your dots in Vision for an Attribute or Skill when rolling to assist another character on an extended action.  The Storyteller has the final say on whether a given trait can be replaced.
+
 (3) Astral Adept: Your character is deeply in tune with her own soul, and may enter the Astral Realms without a place of power. In addition to the access methods listed on p. 249, your character may perform a ceremony to attune herself to the astral, then spend a Willpower point to allow her to meditate into the realms. Decide what form your ceremony takes when buying this Merit; many mages use a Legacy Oblation, while Sleepwalkers might require special drugs, exercises, or chants.
+
 (4) Meditative Mind:  You're good at meditating!
+* Ignore environmental and wound penalties on meditation rolls. 
+* Meditation grants +3 to Resolve + Composure rolls for the remainder of the day. 
+* Meditation rolls only need to accumulate one success
 
 
 ### Geomancy
@@ -182,6 +225,9 @@ or suburb (–1), holy site used inappropriately (–1 to –5)
 
 _You are a part of the Closed Gate Proximi line._
 
+(1) Hardened Exorcist: Your character stood her ground against intruders 
+from other realms, and despite the toll it’s taken on her soul she remains defiant. Add her Occult dots to her Integrity for determining any bonuses to abjuration rolls. You can also use your exorcist’s Vice to call upon abjurations without the usual penalty.
+
 
 ##### Arete: 2
 
@@ -190,8 +236,10 @@ _You are a part of the Closed Gate Proximi line._
 ###### Space: 2
 ###### Abjuration: 3
 
+
 ### Spell Forms
 * []
+
 
 
 
@@ -199,94 +247,66 @@ _You are a part of the Closed Gate Proximi line._
 
 ### Family Tree
 
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
-                                                                                                                           
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
