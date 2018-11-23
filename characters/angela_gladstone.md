@@ -1,7 +1,11 @@
-# Angela Mukta Bodhi Cruyssen-Gladstone
+# Angela Mukta Bodhi Cruyssen-Gladstone, aka. Ila
 
 _"Play stupid games, win stupid prizes"_
 _"Industry isn't a newspaper column, it's a Virtue -- one of the few that always matters"_
+
+### Description
+
+_Pale skin with white-blond hair marks a contrast to traditionally Bengali features, which is further accented by traditional Bengali dress (bindi, long tunic dress, loose pants, long neck scarf).  Long, thin limbs give a strange contrast to the loose flowing clothing.  Pale eyes constantly search her environment for a new feature, but when engaged her gaze never changes._
 
 
 * * * * * 
@@ -17,7 +21,16 @@ _"Industry isn't a newspaper column, it's a Virtue -- one of the few that always
 ##### Trouble: Competent Professional
 ##### _Bonus Trouble:_ Family Means Well
 
-Integrity: 6
+#### Integrity: 6
+
+###### Mana Pool: 5 / 5
+###### WillPower: 9 / 9
+
+
+### Aspirations
+* Get caught by someone with a powerful Fate
+* Go to some kind of social gathering, probably at Sozo's
+* Study the geomancy of Rumsford
 
 
 ### Name Meanings
@@ -27,7 +40,10 @@ Integrity: 6
 * Bodhi, _Sanskrit_, Awakened
 * Cruyssen, _Dutch_, Crossroads
 * Gladstone, _English_, Bright Rock
+* Ila, _Hindi_, Earth/Speech
 
+
+* * * * * 
 
 ## Attributes
 
@@ -72,8 +88,11 @@ Integrity: 6
 ### Knowlege-based
 
 (2) Danger Sense: You can a +2 on Wits+Composure rolls to detect an ambush; this is due to a nearly paranoid level of wards use [Paranoia] <WoD Core, pg. 108>
+
 (2) Eidetic Memory: You have a near photographic memory; you do not need to roll to remember things, and during stressful conditions you have a +2 modifier on any Intelligence+Composure to remember something, or any other Skill-based roll to remember something.  <WoD Core, pg. 108>
+
 (3) Languages: Dutch, Bengali, Sanskrit  <WoD Core>
+
 (2) Multilingual: Latin, Old Norse, Hindi, French  <Reliquary, pg. 85>
 
 
@@ -122,7 +141,7 @@ Integrity: 6
 
 (*) Family Connections: You can find the right person for the job.  Treat all services as costing one Resource dot less.  This may require you to "occasionally" perform services for less than your usual fee in return.
 
-(*) "Helpful" Family: One parent doesn't care if she awakens, as long as she gets a good job, a husband, and grandkids.  The other doesn't care about that, as long as she Awakens.
+(*) "Helpful" Family: Angie's mother, [], wants her to be happy, which means finding a good job, getting a good husband, and having three to four children.  Gratefully, her father doesn't worry about this... as long as she awakens as a Magi.  
 
 (*) Silver Ladder: You are associated with the Silver Ladder.  Geoffrey is a _terrible_ Silver Ladder.
 
@@ -150,11 +169,15 @@ Integrity: 6
 
 * Wheelchair Drive Van: you have a van which can be driven from a wheelchair.  Other people can attempt to drive your van, but they are at a penalty if they have never used this type of vehicle before
 * Good Computer Equipment
+* _Enchanted Ring_: One of your favorite aunts passed down a _Ring of Mage Hand_, to assist you with your studies.  This is helpful for holding books.  This is unhelpful for producing paradox.  
 
 
 ### Background Notes
 
-* From Bengali, Cambridge
+* From Bengali city of Kolkata, with family in Patna to the North
+    - Family is made up of traditional Bengali, Dutch-Indian, and British
+    - Due to a well-meaning protection placed on the family during the British Raj period, throwbacks to blonde-hair and blue-eyes happen in an attempt to ensure someone is always able to present to foreigners
+* Upon the increase of hostilities between Pakistan and India, was to the United States to complete college
 
 
 * * * * * 
@@ -223,7 +246,7 @@ or suburb (–1), holy site used inappropriately (–1 to –5)
 
 ### Proximi: Closed Gate Tradition
 
-_You are a part of the Closed Gate Proximi line._
+_You are a part of the Ianus Clausa Proximi line._
 
 (1) Hardened Exorcist: Your character stood her ground against intruders 
 from other realms, and despite the toll it’s taken on her soul she remains defiant. Add her Occult dots to her Integrity for determining any bonuses to abjuration rolls. You can also use your exorcist’s Vice to call upon abjurations without the usual penalty.
@@ -238,9 +261,25 @@ from other realms, and despite the toll it’s taken on her soul she remains def
 
 
 ### Spell Forms
-* []
+* Mage Sight (Forces, Prime, Space, Abjuration)
+* Ward Location (Lying Maps; Space 2): You hide a location, roll  <MtA, pg. 174>
+* Trip Wire (Scrying, _Limited_; Space 2): A thin thread across a location which, when tripped, will alert you to the action.  <MtA, pg. 174>
+* Dispel Magic (Dispel Magic; Prime 1): As long as you have the same spheres as the caster, you may attempt to counter Awakened magic.  <MtA, pg. 165>
+* Sacred Tools (As Above, So Below; Prime 2): Your tools are sacred and enchanted, giving you 9-again on spellcasting rolls.  <MtA, pg. 167>
+* Bind Charm (Ephemeral Enchantment; Prime 3): An item is bound so tightly the object can affect things in Twilight.  <MtA, pg. 169>
+* Geomantic Change (Geomancy; Prime 3): You can reshape Nodes and change Resonance.  <MtA, pg. 169>
+* Ward Purpose (Platonic Form; Prime 3): Enchant an item to be more useful.  <MtA, pg. 169>
+* Create Ward (Create Ward; Abjuration 3): You create a general purpose ward.  <Thad, pg. XX>
 
 
+### Yantras
+ 
+* Geometrically woven Sari, for personal protection
+* Mala [prayer bead strand] of petrified wood, for concentration, extended rituals, focus (Saraswati, goddess of wisdom, poetry & music; consort to Brahma)
+* Golden trident rod, for redirection of energies while reflecting the triad of Creator/Preservor/Destroyer (Shiva, trifold god/god of destruction; consort to Pavarti/Devi/Durga) (Durga, protector/warrior goddess; consort of Shiva)
+* Shaligram [fossilized seashell], for abiding rituals of peace (Vishnu, the protector/maintainer god; consort of Sri-Lakshmi of wealth, fortune and luck)
+* Traditional wards made with mirrors, mandalas of intricate design, placement of offerings to change minor ley line flow
+* Bindi, for focusing vision of the third eye
 
 
 * * * * *

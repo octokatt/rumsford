@@ -1,10 +1,9 @@
-Manyara Swift (Khai||khaun)
-=========
+# Manyara Swift (Khai||khaun)
 
 ### Concept: Were-cheetah Shaman, aka Shuri
 
 
-Aspects
+## Aspects
 -------
 
 Morality 6 | Integrity 8 | Harmony 5
@@ -14,7 +13,7 @@ Nature: Innovator | Virtue: Confidence | Vice: Pride
 
 * * * * * * * * * * * * * * * * * * * * * 
 
-Attributes
+## Attributes
 ----------
 
 | Physical | Mental | Social |
@@ -24,10 +23,7 @@ Attributes
 | STA 1 | RES 2 | COM 1 |
 
 
-* * * * * * * * * * * * * * * * * * * * * 
-
-Skills
------------
+## Skills
 
 | Physical | Mental | Social |
 |----------|--------|--------|
@@ -43,15 +39,22 @@ Skills
 
 * * * * * * * * * * * * * * * * * * * * * 
 
-Merits
-------
+### Merits
 
-Retainer 3 (Emotional Support Dog)
-Rituals ?
+(3) Retainer  (Emotional Support Dog)
+(2) Swift of Foot
+
+### Social Ties:
+
+* +1 to Coach for running cross-country _and_ being good at school
 
 
-Forms
-------
+
+* * * * * 
+
+## Powers
+
+### Forms
 
 | Human | Ritual | War | Chase | Run |
 |-------|--------|-----|-------|----|
@@ -62,10 +65,21 @@ Forms
 | SP: 5  | SP: 7  | SP: 10 | SP: 13 | SP: 15 |         
 
 
-Special Powers
-============
+### Ritual Magic
+
+* 
+
+
+### Unique Powers
+
 * Run Through The Gauntlet: If you get up to 88mph, you can run through the Gauntlet.  If you have a locus available, each dot of locus reduces the speed needed by 10mph
+
 * Can't Sit Still: You gain a bonus equal to the lower of your DEX or WIT (+4) to Initiative, Noticing Movement, and Movement.  Choosing to use this bonus means you act on instinct for the rest of the scene, though this can be relieved by spending a willpower.  You take a penalty equal to this bonus on actions involving staying still, including Being Calm and all Extended Actions aside from running for twenty-four hours afterwards.
+
 * Desert Heart: Treat your STA as three higher when determining deprivation effects from thirst, hunger, or heat exposure.  Further, you are not slowed by sand terrain.  Take a -1 penalty whenever out of your element.
+
 * Nama Shaman: Chosen by !Xu, your role is to help the spirits and the people live together, like the dry and the wet.  You can communicate with spirits, and can see them with a COM + Occult roll.  You may also participate in spirit hunts to gain essence, and buy gifts and rituals.  However, you must maintain Harmony, and failure to live up to what is required may lower Status with the spirits and tribe alike.
+
 * Hidden Oasis: You were raised in the Dragon's Breath Oasis, a hidden place of power and mystery.  Gain a +2 bonus when dealing with advanced technology; you may always try to talk to the spirit of a given piece of technology if it is powered by arcane means or the hidden gem (Uranium).  Take a -2 whenever attempting to work with more primative technologies.  If you choose, you may tinker with a piece of technology, which will negate your penalty but applies the same penalty to anyone without a similar bonus.
+
+
