@@ -104,9 +104,9 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 (1) Make Do (Crafts): Reduce all penalties from inappropriate tools by the rating of this merit. [Paranoia] <The Free Council, pg. 132>
 
-(3) Scientist's Sense (Geomancy): You have an intuitive sense of your scientific discipline, borne of experience.  When creating something within your specialty, you may roll Wits+Crafts to know how well or how poorly you're doing, in addition to any benefits gained from the Common Sense merit.  <The Free Council, pg. 133>
+(3) Scientist's Sense (Geomancy): You have an intuitive sense of your scientific discipline, borne of experience.  When creating something within your specialty, you may roll Wits+Science/Occult to know how well or how poorly you're doing, in addition to any benefits gained from the Common Sense merit.  <The Free Council, pg. 133>
 
-(1) Patient: When taking extended actions, you may roll two times more than your base dice pool
+(1) Patient: When taking extended actions, you may roll two more times than your base dice pool
 
 (2) Professional Training, Ward-Master:
 * Networking: Contacts (2)
@@ -117,7 +117,7 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 ### Socal-based
 
-(2) Cohesive Unit: Your character is a natural teamplayer who brings out the best from those he works with. At one dot, team members add +2 dice to teamwork actions dedicated to helping the team <CoD, pg. 72> 
+(1) Cohesive Unit: Your character is a natural teamplayer who brings out the best from those he works with. At one dot, team members add +2 dice to teamwork actions dedicated to helping the team <CoD, pg. 72> 
 
 
 ### Professional Ties
@@ -150,7 +150,12 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 ### Backgrounds
 
-(4) Local Union #348, Dwarven Construction: You are on good terms with the local dwarven union, and contribute regularly to their projects.  As a result, you gain a number of useful benefits.
+(4) Local Union #348, Dwarven Construction: You are on good terms with the local dwarven union, and contribute regularly to their projects.  As a result, you gain a number of useful benefits:
+    * (1) Anyone who's hung out with dwarves for long enough has heard their remarks about craftsmanship.  Gain the Style merit.
+    * (2) You've started taking on Dwarven Stoicism.  Add one dot of Closed Book to your character sheet; this may not increase your score over five.
+    * (3) Dwarves invite you to drinking parties.  Choose two of Strong Back, Iron Stomach, Natural Immunity, or Quick Draw.  You are now an Honorary Dwarf, or at least a Dwarf-friend, depending on the relationship.
+    * (4) Dwarves invite you to _work crews_, which is a distinct honor.  You gain the benefits of Fixer when related to things solvable by dwarves, and Contacts (Dwarves).  
+    * (5) You have proven your worth enough to be granted access to the famed Dwarven Mines.  Gain three points of Resources or one Artifact.
 
 (2) Resources: You have material resources, worth $1,000 per month of disposable income and $5,000 worth of assets.
 
