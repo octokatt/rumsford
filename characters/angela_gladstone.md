@@ -23,8 +23,8 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 #### Integrity: 6
 
-###### Mana Pool: 5 / 5
-###### WillPower: 9 / 9
+###### Mana Pool: 2 / 5
+###### WillPower: 6 / 9
 
 
 ### Aspirations
@@ -54,7 +54,6 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 | RES 5     | STA 1     | COM 4     |
 
 
-
 ## Skills
 
 | MENTAL        | PHYSICAL      | SOCIAL        |
@@ -80,6 +79,11 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 * Drive (Van)
 
 
+#### Informed Conditions
+
+* Baby Godfather... fucking shit, Thads
+
+
 * * * * * 
 
 
@@ -93,7 +97,7 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 (3) Languages: Dutch, Bengali, Sanskrit  <WoD Core>
 
-(2) Multilingual: Latin, Old Norse, Hindi, French  <Reliquary, pg. 85>
+(2) Multilingual: Latin, Old Norse, Hindi, Tibetan, Nepali  <Reliquary, pg. 85>
 
 
 ### Warding-based
@@ -291,38 +295,27 @@ from other realms, and despite the toll it’s taken on her soul she remains def
 
 ### Family Tree
 
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
-                                                                                          
+                                      -----------------------------------
+                                      |                 |               |
+Aditi  Suresh       Kanti         Samir             Rishi          Sapphira
+  |     |       (grandmother)    (grandfather)  (maji great-uncle) (great-aunt)
+  -------               |        |                        
+    |                   ----------------------------------
+    |                   |               |                |     
+Puja (mother)----- Kumar (father) Prasad (uncle)  Sekhar (uncle) -- Bilha(aunt)
+             |                           |              |   
+        *Angie*             Dipak ---  Gobindi     Gita --- Prakesh --- Swarna
+                           Indira ---  Lucky       Uttar --- Satisti --- Prasad
 
 
 
+* * * * * 
 
+### Merits for the Future:
 
+(1) Direction Sense: You don't get lost, and you always know the cardinal directions <WoD Core, pg. 110>
+
+(1) Steady Driver: Effective driving is about calmness, and you've learned that well.  Your character always uses Resolve + Drive instead of Dex + Drive, whether or not it's a stressful situation <Midnight Roads, pg. 59>
 
 
 

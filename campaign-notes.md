@@ -8,6 +8,7 @@
 ### _Crazy Timeline Shenanigans with Strider of the Amber_
 
 
+* * * * * 
 
 ## 2018-11-21
 
@@ -31,8 +32,6 @@
 * Shortcuts through town with Danny which go from end to end
     - Resonance sub-map on the Google Maps shows where the shortcuts are
 
-
-
 ### This Session (IC, Ila)
 * This place is one, giant goddamn rift.  It's not a tear, reality has been worn through.  The Place on the Hill is the worst.
 * Others in town let me find cheap land.
@@ -44,11 +43,33 @@
 * Observed fae just randomly grabbing people.  Crew behaved admirably.
     - Danny attempted to take the aggro.  Kudos to that one.
 
+* * * * *
 
-### This Session (OOC)
+## 2018-12-05
 
+### Ila's IC Notes:
+* Met Danny, Timothy, Melville at the Chinese Food Shop, discussed the Shadowcritter issue -- plans were made
+    - Plans made to check on veteran with Danny
+    - Tried to help Timothy, Melville with a "daring raid"... but failed
+
+
+* * * * * 
+
+## 2018-12-12
+
+### Ila's IC Notes:
+* Observing the Veteran:
+    - "Charlie's Spot"
+    - He's disconnected, not really involved
+    - The dark threads strangling him are small and muted, this is a slow burn effect
+* Danny has a flaming eagle as a familiar, left to him by his father
+
+### OOC Notes:
+* Incan Staff of Priviledge
+* Timothy and Melville had an adventure and a car chase
 
 
 * * * * *
+
 
 
