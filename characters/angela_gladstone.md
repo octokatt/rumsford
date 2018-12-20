@@ -23,14 +23,14 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 #### Integrity: 6
 
-###### Mana Pool: 2 / 5
+###### Mana Pool: 1 / 5
 ###### WillPower: 6 / 9
 
 
 ### Aspirations
-* Get caught by someone with a powerful Fate
-* Go to some kind of social gathering, probably at Sozo's
-* Study the geomancy of Rumsford
+* ???
+* Meet a new friend
+* Find the library under the Capitol Building
 
 
 ### Name Meanings
@@ -155,6 +155,7 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 ### Backgrounds
 
 (4) Local Union #348, Dwarven Construction: You are on good terms with the local dwarven union, and contribute regularly to their projects.  As a result, you gain a number of useful benefits:
+
     * (1) Anyone who's hung out with dwarves for long enough has heard their remarks about craftsmanship.  Gain the Style merit.
     * (2) You've started taking on Dwarven Stoicism.  Add one dot of Closed Book to your character sheet; this may not increase your score over five.
     * (3) Dwarves invite you to drinking parties.  Choose two of Strong Back, Iron Stomach, Natural Immunity, or Quick Draw.  You are now an Honorary Dwarf, or at least a Dwarf-friend, depending on the relationship.
@@ -234,7 +235,7 @@ Exceptional Success: The character’s knowledge is so precise that other effect
 * Minimum Successes Required:
     - 5 (small room)
     - 10 (typical home)
-    - 15 (typical offi ce)
+    - 15 (typical office)
     - 20 (multi-story building)
     - 25 or more (skyscraper, Disneyland Hong Kong, Love Canal)
 * Ritual Length: One hour per five successes needed.  Actual construction or redesign certainly takes longer — days or weeks depending on the size of the project.
