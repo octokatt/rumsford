@@ -73,15 +73,18 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 * Persuation (Sympathy; see *Disabled*)
 * Science (Physics)(Geometry)(Geomancy, Interdisciplinary Specialty) [9-again]
 * Crafts (Wards 2, Interdisciplinary Specialty) [9-again]
-* Occult [9-again]
+* Occult (Practical Applications -2) [9-again] 
 * Intimidate (Spirits; see Flaw: Warded)
 * Expression (poetry/mudra recitation)
 * Drive (Van)
 
+* Practical Applications (Any; -1)
+* Animals (-1)
+
 
 #### Informed Conditions
 
-* Baby Godfather... fucking shit, Thads
+* Baby Godfather... fucking shit, Thad
 
 
 * * * * * 
@@ -118,6 +121,10 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 (2) Indomitable: Whenever someone attempts to overpower your will supernaturally, gain a +2 to the defense or roll
 
+(1) Direction Sense: You don't get lost, and you always know the cardinal directions <WoD Core, pg. 110>
+
+(1) Steady Driver: Effective driving is about calmness, and you've learned that well.  Your character always uses Resolve + Drive instead of Dex + Drive, whether or not it's a stressful situation <Midnight Roads, pg. 59>
+
 
 ### Socal-based
 
@@ -139,13 +146,14 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 (*) Geoffrey Ash: Family Rivalry, must prove that he's the sad, sad Crowley-wanna be that he is, bugger him
 
 (*) Melissa Andrus: Miserable architect that's a local family connection, who is now almost-always miserable due to a bad project.
+    Update: this was due to the depression plague, has now been cured
 
 
 ### Family Ties
 
 (*) Family Connections: You can find the right person for the job.  Treat all services as costing one Resource dot less.  This may require you to "occasionally" perform services for less than your usual fee in return.
 
-(*) "Helpful" Family: Angie's mother, [], wants her to be happy, which means finding a good job, getting a good husband, and having three to four children.  Gratefully, her father doesn't worry about this... as long as she awakens as a Magi.  
+(*) "Helpful" Family: Angie's mother, Puja, wants her to be happy, which means finding a good job, getting a good husband, and having three to four children.  Gratefully, her father Kumar doesn't worry about this... as long as she awakens as a Magi.  
 
 (*) Silver Ladder: You are associated with the Silver Ladder.  Geoffrey is a _terrible_ Silver Ladder.
 
@@ -156,11 +164,13 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 (4) Local Union #348, Dwarven Construction: You are on good terms with the local dwarven union, and contribute regularly to their projects.  As a result, you gain a number of useful benefits:
 
-    * (1) Anyone who's hung out with dwarves for long enough has heard their remarks about craftsmanship.  Gain the Style merit.
-    * (2) You've started taking on Dwarven Stoicism.  Add one dot of Closed Book to your character sheet; this may not increase your score over five.
-    * (3) Dwarves invite you to drinking parties.  Choose two of Strong Back, Iron Stomach, Natural Immunity, or Quick Draw.  You are now an Honorary Dwarf, or at least a Dwarf-friend, depending on the relationship.
-    * (4) Dwarves invite you to _work crews_, which is a distinct honor.  You gain the benefits of Fixer when related to things solvable by dwarves, and Contacts (Dwarves).  
-    * (5) You have proven your worth enough to be granted access to the famed Dwarven Mines.  Gain three points of Resources or one Artifact.
+
+##### Levels of Dwarven Comraderie:
+1. Anyone who's hung out with dwarves for long enough has heard their remarks about craftsmanship.  Gain the Style merit.
+2. You've started taking on Dwarven Stoicism.  Add one dot of Closed Book to your character sheet; this may not increase your score over five.
+3. Dwarves invite you to drinking parties.  Choose two of Strong Back, Iron Stomach, Natural Immunity, or Quick Draw.  You are now an Honorary Dwarf, or at least a Dwarf-friend, depending on the relationship.
+4. Dwarves invite you to _work crews_, which is a distinct honor.  You gain the benefits of Fixer when related to things solvable by dwarves, and Contacts (Dwarves).  
+5. You have proven your worth enough to be granted access to the famed Dwarven Mines.  Gain three points of Resources or one Artifact.  You are also considered either a Dwarf or an honored outsider (either Sgt. Carrot or Bilbo)
 
 (2) Resources: You have material resources, worth $1,000 per month of disposable income and $5,000 worth of assets.
 
@@ -179,7 +189,7 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 * Wheelchair Drive Van: you have a van which can be driven from a wheelchair.  Other people can attempt to drive your van, but they are at a penalty if they have never used this type of vehicle before
 * Good Computer Equipment
-* _Enchanted Ring_: One of your favorite aunts passed down a _Ring of Mage Hand_, to assist you with your studies.  This is helpful for holding books.  This is unhelpful for producing paradox.  
+* _Enchanted Ring_: Your great-uncle Rishi passed down a _Ring of Mage Hand_, to assist you with your studies.  This is helpful for holding books.  This is unhelpful for producing paradox.  
 
 
 ### Background Notes
@@ -314,9 +324,7 @@ Puja (mother)----- Kumar (father) Prasad (uncle)  Sekhar (uncle) -- Bilha(aunt)
 
 ### Merits for the Future:
 
-(1) Direction Sense: You don't get lost, and you always know the cardinal directions <WoD Core, pg. 110>
-
-(1) Steady Driver: Effective driving is about calmness, and you've learned that well.  Your character always uses Resolve + Drive instead of Dex + Drive, whether or not it's a stressful situation <Midnight Roads, pg. 59>
+Actual dots in Familiar
 
 
 

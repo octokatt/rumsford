@@ -71,5 +71,69 @@
 
 * * * * *
 
+## 2018-12-19
+
+### Ila's IC Notes:
+* Ila got an earpiece, and met ERIC
+* Timothy picked up a Supernal artifact
+* Andros Iker is Timothy's father
+    - We met, went well, he is the more permissive parent who will lend grenades, Timothy's mother does care and will ground Timothy
+    - Established what level house protections were at, then found where improvements needed to occur
+
+
+* * * * * 
+
+## 2018-12-26
+
+### Ila's IC Notes:
+
+* Dog with green eyes that circles exactly twice
+* Family came back to town
+* Went to the Library
+    - Wards notes:
+        + Art Noveau, protect from casual destruction -- seen in cast iron
+        + Next layer, protect from Cthulu
+        + 1930's, brutalist approach when The Man came to town, most likely when this place was updated for nukes, and added to existing wards
+            * In case of reality failure, this place will remain
+    - Equivilent to 4-dot Library merit
+    - Parts of Library:
+        + Government records from colonial era
+        + Card catalogue
+        + This is a library created by upper-crust occultists, colonialists
+        + Metal plates have inscriptions to remember things
+    - This is a Solid and Real place (via Prime)
+        + If something would call on the Supernal or cause Paradox, it would become lessened as a result of this place
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
