@@ -280,7 +280,7 @@ from other realms, and despite the toll it’s taken on her soul she remains def
 ###### Abjuration: 3
 
 
-### Spell Forms
+#### Spell Forms
 * Mage Sight (Forces, Prime, Space, Abjuration)
 * Ward Location (Lying Maps; Space 2): You hide a location, roll  <MtA, pg. 174>
 * Trip Wire (Scrying, _Limited_; Space 2): A thin thread across a location which, when tripped, will alert you to the action.  <MtA, pg. 174>
@@ -290,9 +290,10 @@ from other realms, and despite the toll it’s taken on her soul she remains def
 * Geomantic Change (Geomancy; Prime 3): You can reshape Nodes and change Resonance.  <MtA, pg. 169>
 * Ward Purpose (Platonic Form; Prime 3): Enchant an item to be more useful.  <MtA, pg. 169>
 * Create Ward (Create Ward; Abjuration 3): You create a general purpose ward.  <Thad, pg. XX>
+* Bind Body (Create Ward; Forces 3, Abjuration 3): A general cantrip for being able to keep Ila's body from further degrading... this can be useful for applying emergency bullet wounds as well
 
 
-### Yantras
+#### Yantras
  
 * Geometrically woven Sari, for personal protection
 * Mala [prayer bead strand] of petrified wood, for concentration, extended rituals, focus (Saraswati, goddess of wisdom, poetry & music; consort to Brahma)
