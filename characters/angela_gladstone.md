@@ -98,7 +98,7 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 (2) Eidetic Memory: You have a near photographic memory; you do not need to roll to remember things, and during stressful conditions you have a +2 modifier on any Intelligence+Composure to remember something, or any other Skill-based roll to remember something.  <WoD Core, pg. 108>
 
-(3) Languages: Dutch, Bengali, Sanskrit  <WoD Core>
+(3) Languages: (English), Dutch, Bengali, Sanskrit  <WoD Core>
 
 (2) Multilingual: Latin, Old Norse, Hindi, Tibetan, Nepali  <Reliquary, pg. 85>
 
@@ -122,8 +122,6 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 (2) Indomitable: Whenever someone attempts to overpower your will supernaturally, gain a +2 to the defense or roll
 
 (1) Direction Sense: You don't get lost, and you always know the cardinal directions <WoD Core, pg. 110>
-
-(1) Steady Driver: Effective driving is about calmness, and you've learned that well.  Your character always uses Resolve + Drive instead of Dex + Drive, whether or not it's a stressful situation <Midnight Roads, pg. 59>
 
 
 ### Socal-based
@@ -160,7 +158,11 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 (*) Shadow Contact, Abaddon: You can gain information about something's banes, but at a strange and often high cost.  These communications are always in Sanskrit.
 
 
-### Backgrounds
+### Backgrounds/Advantages (Misc.)
+
+(2) Familiar: Your great-uncle, upon hearing you'd taken up with the younger Iker hero, sent you a familiar in the form of a clouded leopard.  He said it would be useful.  Hopefully, one day, it will be.  (See MtA, pg. 255 for more)
+
+(1) Steady Driver: Effective driving is about calmness, and you've learned that well.  Your character always uses Resolve + Drive instead of Dex + Drive, whether or not it's a stressful situation <Midnight Roads, pg. 59>
 
 (4) Local Union #348, Dwarven Construction: You are on good terms with the local dwarven union, and contribute regularly to their projects.  As a result, you gain a number of useful benefits:
 
@@ -276,12 +278,12 @@ from other realms, and despite the toll it’s taken on her soul she remains def
 
 ###### Prime: 3
 ###### Forces: 1
-###### Space: 2
-###### Abjuration: 3
+###### Space: 3
 
+###### Held Spells Limit: 3
 
 #### Spell Forms
-* Mage Sight (Forces, Prime, Space, Abjuration)
+* Mage Sight (Forces, Prime, Space)
 * Ward Location (Lying Maps; Space 2): You hide a location, roll  <MtA, pg. 174>
 * Trip Wire (Scrying, _Limited_; Space 2): A thin thread across a location which, when tripped, will alert you to the action.  <MtA, pg. 174>
 * Dispel Magic (Dispel Magic; Prime 1): As long as you have the same spheres as the caster, you may attempt to counter Awakened magic.  <MtA, pg. 165>
@@ -289,8 +291,10 @@ from other realms, and despite the toll it’s taken on her soul she remains def
 * Bind Charm (Ephemeral Enchantment; Prime 3): An item is bound so tightly the object can affect things in Twilight.  <MtA, pg. 169>
 * Geomantic Change (Geomancy; Prime 3): You can reshape Nodes and change Resonance.  <MtA, pg. 169>
 * Ward Purpose (Platonic Form; Prime 3): Enchant an item to be more useful.  <MtA, pg. 169>
-* Create Ward (Create Ward; Abjuration 3): You create a general purpose ward.  <Thad, pg. XX>
-* Bind Body (Create Ward; Forces 3, Abjuration 3): A general cantrip for being able to keep Ila's body from further degrading... this can be useful for applying emergency bullet wounds as well
+* Create Ward (Ban; Prime 3, Space 3): You create a general purpose ward that keeps things both in and out.  Like oxygen.  Be careful.  <MtA, pg. 176>
+* Bind Body (Ban; Forces 1, Space 3, Prime 3): A specialized ward for being able to keep Ila's body from further degrading... this can be useful for applying emergency bullet wounds as well <MtA, pg. 176>
+* Ward Spirits (Ban; Space 3, Well-warded to Spirits): You can create a ward against spirits of all kinds, despite not being knowledgable of the sphere of Spirits <MtA, pg. 176; Thad, pg. XX>
+* No Looking (Supernal Veil; Prime 2): You can ward a supernal working from unseen sights, including yourself.  Casual attempts will not see past the ward, and active attempts create a Clash of Wills.  <MtA, pg. 168>
 
 
 #### Yantras

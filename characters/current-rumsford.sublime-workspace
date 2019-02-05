@@ -19,7 +19,7 @@
 			"file": "angela_gladstone.md",
 			"settings":
 			{
-				"buffer_size": 18013,
+				"buffer_size": 18750,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -41,7 +41,6 @@
 			"settings":
 			{
 				"buffer_size": 4668,
-				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -196,15 +195,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18013,
+						"buffer_size": 18750,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2250,
-								2250
+								16409,
+								16409
 							]
 						],
 						"settings":
@@ -214,7 +213,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 9478.0,
+						"translation.y": 9013.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
