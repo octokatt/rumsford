@@ -24,13 +24,15 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 #### Integrity: 6
 
 ###### Mana Pool: 1 / 5
-###### WillPower: 6 / 9
+###### WillPower: 7 / 9
 
 
 ### Aspirations
-* ???
-* Meet a new friend
-* Find the library under the Capitol Building
+[x] Talk to at least one mage about the shitshow
+[x] *Attempt* to prevent Lord Iker from doing something rash
+[ ] Gain one cat
+[ ] Schedule the first Consilium meeting
+[ ] Sneak into library to create a timeline of town rituals
 
 
 ### Name Meanings
@@ -145,6 +147,13 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 (*) Melissa Andrus: Miserable architect that's a local family connection, who is now almost-always miserable due to a bad project.
     Update: this was due to the depression plague, has now been cured
+
+(*) Dwayne: From out of town, Danny talked about him; he's "like a fantasy person"
+
+(*) Larry: Hunts people who break their word, works for the Leviathan (from Danny's word)
+
+(*) Nicholas: Artist who can paint things to life (from Danny)
+
 
 
 ### Family Ties
