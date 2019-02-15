@@ -19,16 +19,7 @@
 			"file": "angela_gladstone.md",
 			"settings":
 			{
-				"buffer_size": 19146,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Manyara_Swift.md",
-			"settings":
-			{
-				"buffer_size": 3175,
+				"buffer_size": 19450,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -37,7 +28,7 @@
 			"file": "/Users/katt/Documents/Code/rumsford/campaign-notes.md",
 			"settings":
 			{
-				"buffer_size": 5540,
+				"buffer_size": 6577,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -193,15 +184,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19146,
+						"buffer_size": 19450,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1076,
-								1076
+								16079,
+								16079
 							]
 						],
 						"settings":
@@ -211,7 +202,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 9054.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -219,48 +210,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "Manyara_Swift.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3175,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								28,
-								28
-							]
-						],
-						"settings":
-						{
-							"history_list_is_closing": true,
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "/Users/katt/Documents/Code/rumsford/campaign-notes.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5540,
+						"buffer_size": 6577,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5507,
-								5507
+								6544,
+								6544
 							]
 						],
 						"settings":
@@ -271,14 +233,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2758.0,
+						"translation.y": 3572.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "dictionary_ryker.md",
 					"semi_transient": false,
 					"settings":
@@ -303,7 +265,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

@@ -23,15 +23,17 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 #### Integrity: 6
 
-###### Mana Pool: 1 / 5
+###### Mana Pool: 5* / 5
 ###### WillPower: 7 / 9
+
+* Whenever downtime occurs in town, mana can be refreshed to full
 
 
 ### Aspirations
 [x] Talk to at least one mage about the shitshow
 [x] *Attempt* to prevent Lord Iker from doing something rash
-[ ] Gain one cat
-[ ] Schedule the first Consilium meeting
+[ ] Successfully use the artifact once
+[ ] Discuss things with Mr. Hazelgrove with at least one hero in the room
 [ ] Sneak into library to create a timeline of town rituals
 
 
@@ -135,28 +137,36 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 (*) Status, Community College: Adjunct Professor
 
-(*) Emiama/"Emme", the Ancient Witch [from Professional Training]
-
-(*) Momma R, the Helpful Witch [from Professional Training]
-
 (*) Academic (Wizard) Contacts [from Professional Training]
 
 (*) Dartmouth Student (commuter)
 
-(*) Geoffrey Ash: Family Rivalry, must prove that he's the sad, sad Crowley-wanna be that he is, bugger him
-
 (*) Melissa Andrus: Miserable architect that's a local family connection, who is now almost-always miserable due to a bad project.
     Update: this was due to the depression plague, has now been cured
 
-(*) Dwayne: From out of town, Danny talked about him; he's "like a fantasy person"
 
-(*) Larry: Hunts people who break their word, works for the Leviathan (from Danny's word)
+### Consilium Wizards
 
 (*) Nicholas: Artist who can paint things to life (from Danny)
 
+(*) Larry 2: Fuck up wizard from the local high school
+
+(*) Geoffrey Ash: Family Rivalry, must prove that he's the sad, sad Crowley-wanna be that he is, bugger him
+
+(*) Momma R, the Helpful Witch [from Professional Training]
+
+(*) Dwayne: From out of town, Danny talked about him; he's "like a fantasy person" -- showed up at Consilium
 
 
-### Family Ties
+### People I heard about:
+
+(*) Larry: Hunts people who break their word, works for the Leviathan (from Danny's word)
+
+(*) Emiama/"Emme", the Ancient Witch [from Professional Training]
+
+
+
+## Family Ties
 
 (*) Family Connections: You can find the right person for the job.  Treat all services as costing one Resource dot less.  This may require you to "occasionally" perform services for less than your usual fee in return.
 
@@ -291,7 +301,15 @@ from other realms, and despite the toll it’s taken on her soul she remains def
 
 ###### Held Spells Limit: 3
 
+
+
 #### Spell Forms
+
+##### Rote Skills
+Order:
+Path: 
+
+##### Rotes
 * Mage Sight (Forces, Prime, Space)
 * Ward Location (Lying Maps; Space 2): You hide a location, roll  <MtA, pg. 174>
 * Trip Wire (Scrying, _Limited_; Space 2): A thin thread across a location which, when tripped, will alert you to the action.  <MtA, pg. 174>

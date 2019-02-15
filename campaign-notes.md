@@ -143,7 +143,24 @@
 
 * * * * *
 
+## 2019-02-13
 
+### Ila's IC Notes
+* Consilium finally happened with Emme, Momma R, Dwayne, and Ila
+* Timothy was at the Winter Solstice ritual
+    - AFP: America First Partnership, were eaten by Nazis
+    - Danny, of course, lit things on fire
+    - An undead dragon, an avatar of the Nydhagg-nagar, the wyrm that devours from beneath, which upon finishing eating the roots will cause Ragnarok
+* The Nee'ogi created Stacylacrum
+    - A dealmaker, an evil dealmaker
+    - Ila gains one flyer
+* Why Stacylacrum happened
+    - A friend of Melville's was being tortured, and this friend saw he was trying to become more of a hero, and as a result she wanted his help and started training him
+    - When his training was complete, he was challenged to a duel which ended badly as she continued to fight while badly injured
+        + And then Timothy and Melville
+* ERIC will go on a murder spree if any of the Solstice Knights or any of the Neverborn/Paradox-borne
+    - The paradox-borne have hopes, souls, and dreams
+* Ila gets the Artifact
 
 
 
