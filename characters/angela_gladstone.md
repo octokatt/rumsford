@@ -65,7 +65,7 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 | Academics   1 | Athletics     | Animal Ken    |
 | Computer    2 | Brawl         | Empathy       |
 | Crafts*     3 | Drive       2 | Expression  3 |
-| Investigate   | Larceny     2 | Intimidate  1 |
+| Investigate   | Larceny     2 | Intimidate* 1 |
 | Occult*     4 | Firearms      | Persuation* 2 |
 | Medicine    1 | Stealth       | Socialize   2 |
 | Politics      | Survival      | Streetwise    |
@@ -74,11 +74,11 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 
 #### Specialties
 
-* Persuation (Sympathy; see *Disabled*)
 * Science (Physics)(Geometry)(Geomancy, Interdisciplinary Specialty) [9-again]
 * Crafts (Wards 2, Interdisciplinary Specialty) [9-again]
 * Occult (Practical Applications -2) [9-again] 
 * Intimidate (Spirits; see Flaw: Warded)
+* Persuation (Not Having It, Interdisciplinary, +2)
 * Expression (poetry/mudra recitation)
 * Drive (Van)
 
@@ -302,13 +302,6 @@ from other realms, and despite the toll it’s taken on her soul she remains def
 ###### Held Spells Limit: 3
 
 
-
-#### Spell Forms
-
-##### Rote Skills
-Order:
-Path: 
-
 ##### Rotes
 * Mage Sight (Forces, Prime, Space)
 * Ward Location (Lying Maps; Space 2): You hide a location, roll  <MtA, pg. 174>
@@ -321,7 +314,7 @@ Path:
 * Create Ward (Ban; Prime 3, Space 3): You create a general purpose ward that keeps things both in and out.  Like oxygen.  Be careful.  <MtA, pg. 176>
 * Bind Body (Ban; Forces 1, Space 3, Prime 3): A specialized ward for being able to keep Ila's body from further degrading... this can be useful for applying emergency bullet wounds as well <MtA, pg. 176>
 * Ward Spirits (Ban; Space 3, Well-warded to Spirits): You can create a ward against spirits of all kinds, despite not being knowledgable of the sphere of Spirits <MtA, pg. 176; Thad, pg. XX>
-* No Looking (Supernal Veil; Prime 2): You can ward a supernal working from unseen sights, including yourself.  Casual attempts will not see past the ward, and active attempts create a Clash of Wills.  <MtA, pg. 168>
+* No Peeking (Supernal Veil; Prime 2): You can ward a supernal working from unseen sights, including yourself.  Casual attempts will not see past the ward, and active attempts create a Clash of Wills.  <MtA, pg. 168>
 
 
 #### Yantras
@@ -352,11 +345,6 @@ Puja (mother)----- Kumar (father) Prasad (uncle)  Sekhar (uncle) -- Bilha(aunt)
 
 
 
-* * * * * 
-
-### Merits for the Future:
-
-Actual dots in Familiar
 
 
 

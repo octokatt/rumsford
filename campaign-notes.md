@@ -163,6 +163,30 @@
 * Ila gets the Artifact
 
 
+* * * * *
+
+## 2019-02-20
+
+### Ila's IC Notes
+* Got an office at Zozo's
+    - I am now on retainer, and I get an office in exchange for a discount to future work
+* Scepter of the Divine Right of the King
+    - The words are True
+    - This has the Mantle of Truth
+    - It is Perfect, a Divine Creation
+* Something ate "Death Lords" according to Ryker
+    - It is made of "distilled white coats"/"distilled sanity"
+    - [Thing that ate the Death Lords] is fighting the "distilled sanity"
+    - Danny also messed with the Death Lords at some point; nope, there was a spirit, and then he ate it
+
+
+### OOC Notes
+* Send Thad terrible rules for making a non-profit
+
+
+* * * * *
+
+
 
 
 

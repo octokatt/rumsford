@@ -19,7 +19,7 @@
 			"file": "angela_gladstone.md",
 			"settings":
 			{
-				"buffer_size": 19450,
+				"buffer_size": 19346,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -28,7 +28,7 @@
 			"file": "/Users/katt/Documents/Code/rumsford/campaign-notes.md",
 			"settings":
 			{
-				"buffer_size": 6577,
+				"buffer_size": 7251,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -37,7 +37,7 @@
 			"file": "dictionary_ryker.md",
 			"settings":
 			{
-				"buffer_size": 310,
+				"buffer_size": 616,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "# Dictionary"
@@ -175,7 +175,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -184,15 +184,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19450,
+						"buffer_size": 19346,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								16079,
-								16079
+								16046,
+								16046
 							]
 						],
 						"settings":
@@ -202,10 +202,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 9054.0,
+						"translation.y": 275.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -214,15 +214,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6577,
+						"buffer_size": 7251,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6544,
-								6544
+								7206,
+								7206
 							]
 						],
 						"settings":
@@ -233,7 +233,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3572.0,
+						"translation.y": 4067.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -245,15 +245,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 310,
+						"buffer_size": 616,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								251,
-								251
+								111,
+								111
 							]
 						],
 						"settings":
@@ -265,7 +265,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
