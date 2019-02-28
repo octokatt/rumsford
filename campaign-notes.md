@@ -186,9 +186,15 @@
 
 * * * * *
 
+## 2019-02-27
+
+### Ila's IC Notes
+* Stacylacrum is not her real name
+* The staff is powerful and may or may not be super bad
+* Faaaaack
 
 
-
+* * * * * 
 
 
 

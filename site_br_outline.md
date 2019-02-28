@@ -27,7 +27,7 @@ Frameworks:
 * Django for CRUD, user bits
 * API calls with Requests in Python for Discord pass through
 * MySQL for character database, etc.
-* PDF generator for character sheets (?)
+* PDF generator for character sheets (stretch)s
 
 
 # Discord Bot

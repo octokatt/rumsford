@@ -24,14 +24,12 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 #### Integrity: 6
 
 ###### Mana Pool: 5* / 5
-###### WillPower: 7 / 9
+###### WillPower: 5 / 9
 
 * Whenever downtime occurs in town, mana can be refreshed to full
 
 
 ### Aspirations
-[x] Talk to at least one mage about the shitshow
-[x] *Attempt* to prevent Lord Iker from doing something rash
 [ ] Successfully use the artifact once
 [ ] Discuss things with Mr. Hazelgrove with at least one hero in the room
 [ ] Sneak into library to create a timeline of town rituals
