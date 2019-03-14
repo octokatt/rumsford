@@ -19,7 +19,7 @@
 			"file": "angela_gladstone.md",
 			"settings":
 			{
-				"buffer_size": 19346,
+				"buffer_size": 19236,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -28,7 +28,7 @@
 			"file": "/Users/katt/Documents/Code/rumsford/campaign-notes.md",
 			"settings":
 			{
-				"buffer_size": 7251,
+				"buffer_size": 7627,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -175,7 +175,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -184,15 +184,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19346,
+						"buffer_size": 19236,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								16046,
-								16046
+								867,
+								867
 							]
 						],
 						"settings":
@@ -202,10 +202,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 275.0,
+						"translation.y": 1241.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -214,15 +214,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7251,
+						"buffer_size": 7627,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7206,
-								7206
+								7458,
+								7458
 							]
 						],
 						"settings":
@@ -233,10 +233,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4067.0,
+						"translation.y": 4699.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -265,7 +265,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

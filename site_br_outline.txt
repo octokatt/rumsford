@@ -38,4 +38,4 @@ Project outline, first pass
 * Dice roller
 * Aspirations updater
 * Stats updater
-* Wiki updater (simple CAT adds -- major edits with Dropbox)
+* Wiki updater (simple CAT adds -- major edits with Dropbox)SS

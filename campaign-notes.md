@@ -196,7 +196,20 @@
 
 * * * * * 
 
+## 2019-03-06
 
+### Ila's IC Notes
+* Ooops.  Can't have any.  Wasn't in character, ever.
+
+
+* * * * * 
+
+## 2019-03-13
+
+### Ila's IC Notes
+* Staff is definitely a damn Seer artifact
+* Timothy has no fucking ambition
+* I hate everyone
 
 
 
