@@ -87,6 +87,7 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 #### Informed Conditions
 
 * Baby Godfather... fucking shit, Thad
+* Rumsford
 
 
 * * * * * 
@@ -209,6 +210,7 @@ _Pale skin with white-blond hair marks a contrast to traditionally Bengali featu
 * Wheelchair Drive Van: you have a van which can be driven from a wheelchair.  Other people can attempt to drive your van, but they are at a penalty if they have never used this type of vehicle before
 * Good Computer Equipment
 * _Enchanted Ring_: Your great-uncle Rishi passed down a _Ring of Mage Hand_, to assist you with your studies.  This is helpful for holding books.  This is unhelpful for producing paradox.  
+* Geoffrey Ash's Notes on Rumsford
 
 
 ### Background Notes
