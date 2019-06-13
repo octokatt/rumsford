@@ -8,7 +8,8 @@
 * GUEST STAR: (Abe) Redefine Winning
 * GUEST STAR: (Patrick) Trying to be the Good Guy
 
-### Current Space Points: 0
+### Current Space Points: 1 / infinitem
+##### Chronicle Log Space Points: 1 / 3
 
 
 ## Skills:
@@ -39,4 +40,4 @@ Rating | Skill
 
 * Kondo-mon Zen
 * "Ulysses" Blythe Quinn Kentington III, now and before being Temperance Jericho, PhD
-* Kosmos Soviet
+* Kosmos Soviet is the shitholes
