@@ -9,7 +9,7 @@
 * GUEST STAR: (Patrick) Trying to be the Good Guy
 
 ### Current Space Points: 1 / infinitem
-##### Chronicle Log Space Points: 1 / 3
+##### Chronicle Log Space Points: 0 / 3
 
 
 ## Skills:
