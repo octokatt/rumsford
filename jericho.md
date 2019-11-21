@@ -16,9 +16,9 @@
 
 Rating | Skill
 ------ | --------
-+4 | Science
++5 | Science
++4 | Security
 +3 | Provoke
-+3 | Intuition
 +2 | Will
 +2 | Pilot
 +2 | Invention
@@ -30,14 +30,15 @@ Rating | Skill
 
 ## Stunts:
 * Negging: You may charm someone with Provoke if you have a victim, whether a theory or another theorist
-* Favorite Asshole: You may use Provoke instead of Contacts if you have previously ruined something near them
+* Favorite Asshole: You may use Provoke instead of Contacts if you have previously ruined something near them, but not them
 * Bullshit Artist: You may use Science in place of Deceit if the topic is sufficiently complex.  Others may defend against this with Science or another suitable skill (Fabrication, Invention, etc.)
 * I've Read Something About This: Replace another skill with Science after using a Fate Point and justification
 * Fucking Terrible Generalist: Twice per session, take a boost to a Science roll -- you may never take a true specialization
+* From the Shoulders of Giants: If you have exposure to someone else’s work on a subject, either through a tag or through use of Security, get a +1 to Science rolls on the subject, and complete your research one time increment faster
 
 
 ## Notes:
 
 * Kondo-mon Zen
-* "Ulysses" Blythe Quinn Kentington III, now and before being Temperance Jericho, PhD
-* Kosmos Soviet is the shitholes
+* Kosmos Soviet is a shithole
+* In the future: Blatant Plagarism, the Stunt  --> done
