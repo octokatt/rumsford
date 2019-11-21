@@ -42,3 +42,5 @@ Rating | Skill
 * Kondo-mon Zen
 * Kosmos Soviet is a shithole
 * In the future: Blatant Plagarism, the Stunt  --> done
+* Have hidden admin rights to Taki
+* Created Girl Friday protocol system
