@@ -19,12 +19,12 @@ Rating | Skill
 +5 | Science
 +4 | Security
 +3 | Provoke
++3 | Invention
 +2 | Will
 +2 | Pilot
-+2 | Invention
 +1 | Investigate
 +1 | Physique
-+1 | Rapport
++1 | Academics
 +1 | Notice
 
 
