@@ -9,7 +9,7 @@
 * GUEST STAR: (Patrick) Trying to be the Good Guy
 
 ### Current Space Points: 1 / infinitem
-##### Chronicle Log Space Points: 0 / 3
+##### Chronicle Log Space Points: 1 / 3
 
 
 ## Skills:
@@ -42,5 +42,5 @@ Rating | Skill
 * Kondo-mon Zen
 * Kosmos Soviet is a shithole
 * In the future: Blatant Plagarism, the Stunt  --> done
-* Have hidden admin rights to Taki
+* Have hidden admin rights to Taki  --> hidden shut down protocols created
 * Created Girl Friday protocol system
