@@ -49,4 +49,5 @@ Rating | Skill
 * Have hidden admin rights to Taki  --> hidden shut down protocols created
 * Created Girl Friday protocol system --> Now in War-crime AI Assistant
 * Picked up great film of Miln rescue
-* Note: Award-Winning Humanist for AI Rights
+* Award-Winning Humanist for AI Rights
+* Blitzkrieg: Invade Your Brain (brand-name stimulant)
