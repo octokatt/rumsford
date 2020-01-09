@@ -48,3 +48,4 @@ Rating | Skill
 * In the future: Blatant Plagarism, the Stunt  --> done
 * Have hidden admin rights to Taki  --> hidden shut down protocols created
 * Created Girl Friday protocol system --> Now in War-crime AI Assistant
+* Picked up great film of Miln rescue
