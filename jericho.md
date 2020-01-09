@@ -35,6 +35,7 @@ Rating | Skill
 * I've Read Something About This: Replace another skill with Science after using a Fate Point and justification
 * Fucking Terrible Generalist: Twice per session, take a boost to a Science roll -- you may never take a true specialization
 * From the Shoulders of Giants: If you have exposure to someone else’s work on a subject, either through a tag or through use of Security, get a +1 to Science rolls on the subject, and complete your research one time increment faster
+* War-crime AI Assistant: You always have a computer interface, and can accomplish Science or Computer-based tasks one time interval faster.  Spend a Space Point to interact at a time interval equal to AI Speed I.  Afterwards, take physical damage equal to your highest check result (you do not get a defense roll).
 
 
 ## Notes:
@@ -43,4 +44,4 @@ Rating | Skill
 * Kosmos Soviet is a shithole
 * In the future: Blatant Plagarism, the Stunt  --> done
 * Have hidden admin rights to Taki  --> hidden shut down protocols created
-* Created Girl Friday protocol system
+* Created Girl Friday protocol system --> Now in War-crime AI Assistant
