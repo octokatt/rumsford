@@ -27,8 +27,8 @@ Rating | Skill
 +1 | Academics
 +1 | Notice
 
-##### Skill Points Available: 
-##### Skill Points Spent:
+##### Skill Points Available: 24
+##### Skill Points Spent: 23
 
 
 ## Stunts:
