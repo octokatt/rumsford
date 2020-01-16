@@ -8,8 +8,12 @@
 * GUEST STAR: (Abe) Redefine Winning
 * GUEST STAR: (Patrick) Trying to be the Good Guy
 
-### Current Space Points: 1 / infinitem
-##### Chronicle Log Space Points: 1 / 3
+### Current Space Points: 2 / infinitem
+##### Chronicle Log Space Points: 2 / 3
+
+
+## Temporary Aspects:
+* Free Aspect: This Will Come In Handy (Miln ship loot)
 
 
 ## Skills:
