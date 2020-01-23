@@ -22,16 +22,16 @@
 
 Rating | Skill
 ------ | --------
-+5 | Science
-+4 | Security
-+3 | Provoke
-+3 | Invention
-+2 | Will
-+2 | Pilot
-+1 | Investigate
-+1 | Physique
-+1 | Academics
-+1 | Notice
+  +5   | Science
+  +4   | Security
+  +3   | Provoke
+  +3   | Invention
+  +2   | Will
+  +2   | Pilot
+  +1   | Investigate
+  +1   | Physique
+  +1   | Academics
+  +1   | Notice
 
 ##### Skill Points Available: 24
 ##### Skill Points Spent: 23
@@ -39,17 +39,17 @@ Rating | Skill
 
 ## Consequences:
 
-RANK | ASPECT
------|--------
-Mild |
+RANK     | ASPECT
+---------|--------
+Mild     |
 Moderate | (M) Guilty Non-Conscience
-Severe | 
+Severe   | 
 
 
 Stress Tracks | Available
 --------------|------------
-MENTAL   | [ ] [ ] [ ]
-PHYSICAL | [ ] [ ] [ ]
+MENTAL        | [ ] [ ] [ ]
+PHYSICAL      | [ ] [ ] [ ]
 
 
 
