@@ -1,15 +1,15 @@
 # Temperance Jericho, PhD
 
 ## Aspects:
-* HIGH ASPECT: Charlatan Scientist Explorer  <- Genius Millionare Playboy Philanthropist (of Ill Repute)
+* HIGH ASPECT: Genius Billionare Playboy "Philanthropist"
 * TROUBLE: Always Moving Forward
 * BACKGROUND: Always, Always Cheat  
     - Tried to get research funding to find deposits of rare earth minerals, succeeded, used research to bribe people to get things at a discount
 * GUEST STAR: (Abe) Redefine Winning
 * GUEST STAR: (Patrick) Trying to be the Good Guy
 
-##### Current Space Points: 0 / infinitem
-##### Chronicle Log Space Points: 0 / 3
+##### Current Space Points: 3 / infinitem
+##### Chronicle Log Space Points: 3 / 3
 
 
 ## Temporary Aspects:
@@ -17,7 +17,7 @@
 Used | Aspect Name
 -----|--------------------------------
  [x] | (Miln) This Will Come In Handy
- [ ] | (Military) Doing My Part
+ [x] | (Military) Doing My Part
  [ ] | 
 
 
@@ -44,8 +44,8 @@ Rating | Skill
 
 RANK     | ASPECT
 ---------|--------
-Mild     |
-Moderate | (M) Guilty Non-Conscience
+Mild     | (M) Guilty Non-Conscience*  <-- Now being treated
+Moderate | 
 Severe   | 
 
 
@@ -78,6 +78,7 @@ PHYSICAL      | [ ] [ ] [ ]
 * Award-Winning Humanist for AI Rights (?)
 * Blitzkrieg: Invade Your Brain (brand-name stimulant)
 * F.L.A.G. (Find. Land. Assimilate. Generate.)
+* New Aspect: Provoke at +1 with an audience
 
 
 ### Levels of Dead:
