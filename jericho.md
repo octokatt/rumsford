@@ -3,21 +3,22 @@
 ## Aspects:
 * HIGH ASPECT: Genius Billionare Playboy "Philanthropist"
 * TROUBLE: Always Moving Forward
-* BACKGROUND: Always, Always Cheat  
+* BACKGROUND: Better, Faster, Strongers  
     - Tried to get research funding to find deposits of rare earth minerals, succeeded, used research to bribe people to get things at a discount
 * GUEST STAR: (Abe) Redefine Winning
 * GUEST STAR: (Patrick) Trying to be the Good Guy
 
-##### Current Space Points: 3 / infinitem
-##### Chronicle Log Space Points: 3 / 3
+##### Current Space Points: 2 / infinitem
+##### Chronicle Log Space Points: 1 / 3
 
 
 ## Temporary Aspects:
 
 Used | Aspect Name
 -----|--------------------------------
- [x] | (Miln) This Will Come In Handy
- [x] | (Military) Doing My Part
+ [x] | (Philips) Common Communication Protocols
+ [x] | (Koenig) Emotional Support
+ [ ] | 
  [ ] | 
 
 
@@ -26,15 +27,15 @@ Used | Aspect Name
 Rating | Skill
 ------ | --------
   +5   | Science
-  +4   | Security
-  +3   | Provoke
+  +4   | Provoke
+  +3   | Security
   +3   | Invention
   +2   | Will
   +2   | Pilot
+  +1   | Notice
   +1   | Investigate
   +1   | Physique
-  +1   | Academics
-  +1   | Notice
+  +1   | Bureaucracy
 
 ##### Skill Points Available: 24
 ##### Skill Points Spent: 23
@@ -42,11 +43,12 @@ Rating | Skill
 
 ## Consequences:
 
-RANK     | ASPECT
----------|--------
-Mild     | (M) Guilty Non-Conscience*  <-- Now being treated
+RANK     | CONSEQUENCE
+---------|------------------
+Mild     | 
 Moderate | 
-Severe   | 
+Severe   | Crisis of Un-Faith
+Extreme  | Better, Faster, Stronger
 
 
 STRESS TRACKS | AVAILABLE
@@ -78,7 +80,7 @@ PHYSICAL      | [ ] [ ] [ ]
 * Award-Winning Humanist for AI Rights (?)
 * Blitzkrieg: Invade Your Brain (brand-name stimulant)
 * F.L.A.G. (Find. Land. Assimilate. Generate.)
-* New Aspect: Provoke at +1 with an audience
+* Proposed New Aspect: Provoke at +1 with an audience
 
 
 ### Levels of Dead:
