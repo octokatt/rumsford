@@ -7,8 +7,8 @@
 * GUEST STAR: (Jericho) Research is Good for the Soul
 * GUEST STAR: (Will) Be Smart, Play Dumb
 
-##### Current Space Points: 2 / infinitem
-##### Chronicle Log Space Points: 0 / 3
+##### Current Space Points: 1 / infinitem
+##### Chronicle Log Space Points: 2 / 3
 
 
 ## Temporary Aspects:
@@ -25,12 +25,13 @@ Used | Aspect Name
 Rating | Skill
 ------ | --------
   +?   | Science
-  +?   | Bureaucracy
   +?   | Security
-  +?   | Will
-  +?   | Deceive
+  +?   | Bureaucracy
   +?   | Empathy
+  +?   | Deceive
+  +?   | Will
   +?   | Investigate
+  +?   | Academics
 
   
 ##### Skill Points Available: ??

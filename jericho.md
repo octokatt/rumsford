@@ -18,7 +18,7 @@ Used | Aspect Name
 -----|--------------------------------
  [x] | (Philips) Common Communication Protocols
  [x] | (Koenig) Emotional Support
- [ ] | 
+ [ ] | (Military) Drinks on Me
  [ ] | 
 
 
@@ -46,7 +46,7 @@ Rating | Skill
 RANK     | CONSEQUENCE
 ---------|------------------
 Mild     | 
-Moderate | 
+Moderate | Fried Brain
 Severe   | Crisis of Un-Faith
 Extreme  | Better, Faster, Stronger
 
@@ -54,7 +54,7 @@ Extreme  | Better, Faster, Stronger
 STRESS TRACKS | AVAILABLE
 --------------|----------------
 MENTAL        | [ ] [ ] [ ]
-PHYSICAL      | [ ] [ ] [ ]
+PHYSICAL      | [ ] [x] [ ]
 
 
 
