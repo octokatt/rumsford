@@ -8,8 +8,8 @@
 * GUEST STAR: (Abe) Redefine Winning
 * GUEST STAR: (Patrick) Trying to be the Good Guy
 
-##### Current Space Points: 2 / infinitem
-##### Chronicle Log Space Points: 1 / 3
+##### Current Space Points: 3 / infinitem
+##### Chronicle Log Space Points: 2 / 3
 
 
 ## Temporary Aspects:
@@ -29,15 +29,15 @@ Rating | Skill
   +5   | Science
   +4   | Provoke
   +3   | Security
-  +3   | Invention
-  +2   | Will
+  +3   | Will
+  +2   | Invention
   +2   | Pilot
+  +1   | Physique
   +1   | Notice
   +1   | Investigate
-  +1   | Physique
-  +1   | Bureaucracy
+  +1   | Empathy
 
-##### Skill Points Available: 24
+##### Skill Points Available: 25
 ##### Skill Points Spent: 23
 
 
@@ -46,14 +46,14 @@ Rating | Skill
 RANK     | CONSEQUENCE
 ---------|------------------
 Mild     | 
-Moderate | Fried Brain
+Moderate | 
 Severe   | Crisis of Un-Faith
 Extreme  | Better, Faster, Stronger
 
 
 STRESS TRACKS | AVAILABLE
 --------------|----------------
-MENTAL        | [ ] [ ] [ ]
+MENTAL        | [ ] [ ] [ ] [ ]
 PHYSICAL      | [ ] [x] [ ]
 
 
