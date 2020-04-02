@@ -8,7 +8,7 @@
 * GUEST STAR: (Abe) Redefine Winning
 * GUEST STAR: (Patrick) Trying to be the Good Guy
 
-##### Current Space Points: 3 / infinitem
+##### Current Space Points: 4 / infinitem
 ##### Chronicle Log Space Points: 2 / 3
 
 
